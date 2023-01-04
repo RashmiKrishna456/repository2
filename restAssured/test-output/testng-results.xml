@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-04T17:25:41 IST" name="Default suite" finished-at="2023-01-04T17:25:55 IST" duration-ms="14464">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T17:25:41 IST" name="Default test" finished-at="2023-01-04T17:25:55 IST" duration-ms="14464">
+      <class name="FrameworkCRUDOperation.putProject">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:FrameworkCRUDOperation.putProject@618425b5]" started-at="2023-01-04T17:25:33 IST" name="bsConfig" finished-at="2023-01-04T17:25:41 IST" duration-ms="7799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method signature="addProject()[pri:0, instance:FrameworkCRUDOperation.putProject@618425b5]" started-at="2023-01-04T17:25:41 IST" name="addProject" finished-at="2023-01-04T17:25:55 IST" duration-ms="14355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProject -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:FrameworkCRUDOperation.putProject@618425b5]" started-at="2023-01-04T17:25:56 IST" name="asConfig" finished-at="2023-01-04T17:25:56 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- FrameworkCRUDOperation.putProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
